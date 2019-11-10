@@ -19,7 +19,7 @@ DiscordModmailLogChannel = 000000000000000000
 # BotPlayingStatus : The bot playing status as shown in discord.
 # BotPrefix : The bot prefix.
 BotToken = "YOURBOTTOKENISHELLO"
-BotPlayingStatus = "Hello! DM me to contact mods."
+BotPlayingStatus = "DM Me For Support!"
 BotPrefix = "mail."
 
 # The 4 options below take booleans (True / False).
